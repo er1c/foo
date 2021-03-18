@@ -1,0 +1,6 @@
+An awesome public FP library.
+
+Links:
+
+ - [[https://alexandru.github.io/foo/ Homepage]]
+ - [[https://github.com/alexandru/foo GitHub repository]]
